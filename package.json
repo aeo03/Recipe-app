@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aeo03/forkify.git"
+    "url": "git+https://github.com/aeo03/Recipe-app.git"
   },
   "author": "Franz Dayrit",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/aeo03/forkify/issues"
+    "url": "https://github.com/aeo03/Recipe-app/issues"
   },
-  "homepage": "https://github.com/aeo03/forkify#readme",
+  "homepage": "https://github.com/aeo03/Recipe-app#readme",
   "devDependencies": {
     "babel-core": "^6.26.3",
     "babel-loader": "^7.1.5",
